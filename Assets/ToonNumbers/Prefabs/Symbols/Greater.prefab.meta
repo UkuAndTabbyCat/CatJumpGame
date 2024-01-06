@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b20e2bfddad91fb4a9db831059f7f7d9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Prefabs/Symbols/Greater.prefab
+  uploadId: 584826

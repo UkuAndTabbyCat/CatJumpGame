@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5235b620ee0911d40ac6ba20bce1cf16
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Models/Materials/exclamation.mat
+  uploadId: 584826

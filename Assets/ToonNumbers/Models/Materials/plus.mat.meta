@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6592beaf7ee77b14f87b5e70c025412f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Models/Materials/plus.mat
+  uploadId: 584826

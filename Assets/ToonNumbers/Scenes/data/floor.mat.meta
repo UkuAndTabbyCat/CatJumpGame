@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4ccb3fb3999a3044a9dfe2e6af0c06fc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Scenes/data/floor.mat
+  uploadId: 584826

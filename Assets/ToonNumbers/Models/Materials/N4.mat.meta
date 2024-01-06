@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b85b8a810f0fab24095cea323a80117d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Models/Materials/N4.mat
+  uploadId: 584826

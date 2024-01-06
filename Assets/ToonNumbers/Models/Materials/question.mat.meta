@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b2f5e05190810c44288db2cdc3154fca
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Models/Materials/question.mat
+  uploadId: 584826

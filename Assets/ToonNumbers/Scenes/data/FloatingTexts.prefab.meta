@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fb83e90cfd361e940839983fa911c912
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Scenes/data/FloatingTexts.prefab
+  uploadId: 584826

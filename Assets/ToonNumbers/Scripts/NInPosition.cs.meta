@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 816ae5bcad4a67d4ab2127192efd2593
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Scripts/NInPosition.cs
+  uploadId: 584826

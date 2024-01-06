@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 266b0f8e4e56e8e4eb782e0493863d5f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Models/Materials/NLfaceA.mat
+  uploadId: 584826

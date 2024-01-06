@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bad5bbbd927e5604ab499262df538a91
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Prefabs/Symbols/Division.prefab
+  uploadId: 584826

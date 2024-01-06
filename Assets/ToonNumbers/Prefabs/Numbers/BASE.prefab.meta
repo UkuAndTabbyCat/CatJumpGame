@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2f5cbde607cd1af4494a46b2f61ec0e1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Prefabs/Numbers/BASE.prefab
+  uploadId: 584826

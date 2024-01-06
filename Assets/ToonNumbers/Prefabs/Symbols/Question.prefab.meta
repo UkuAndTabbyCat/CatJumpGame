@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e320200db6ad8d842b419c1c53af4836
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Prefabs/Symbols/Question.prefab
+  uploadId: 584826

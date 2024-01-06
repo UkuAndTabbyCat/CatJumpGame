@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0530dc10757a20d438e0336b400e5ad3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Prefabs/StaticNumbers/5_static.prefab
+  uploadId: 584826

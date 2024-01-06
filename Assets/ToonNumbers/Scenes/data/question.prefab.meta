@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ee1a2b8eb7f2cc54f9e12e8507a651a8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Scenes/data/question.prefab
+  uploadId: 584826

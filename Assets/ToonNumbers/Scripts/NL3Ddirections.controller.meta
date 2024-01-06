@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 64ac85e533ab3734e963928b161b6a9b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Scripts/NL3Ddirections.controller
+  uploadId: 584826

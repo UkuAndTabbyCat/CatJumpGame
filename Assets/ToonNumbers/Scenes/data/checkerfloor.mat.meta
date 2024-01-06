@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9956157d485d0ce4f90601432802798c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Scenes/data/checkerfloor.mat
+  uploadId: 584826

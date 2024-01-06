@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3f2325629b96f3749b929bb62416fa02
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Prefabs/Symbols/Minus.prefab
+  uploadId: 584826

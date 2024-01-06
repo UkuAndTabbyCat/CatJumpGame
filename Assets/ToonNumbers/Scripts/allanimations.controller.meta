@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 538ebc2aa5919c84e89e2bb9c5923555
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Scripts/allanimations.controller
+  uploadId: 584826

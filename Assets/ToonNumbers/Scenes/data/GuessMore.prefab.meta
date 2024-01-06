@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 553bcb5fe0231ec4985679c0adc2cd87
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Scenes/data/GuessMore.prefab
+  uploadId: 584826

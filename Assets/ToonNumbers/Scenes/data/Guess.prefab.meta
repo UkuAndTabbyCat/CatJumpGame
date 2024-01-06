@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0c2739e96f8f64346a45339c234360a1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Scenes/data/Guess.prefab
+  uploadId: 584826

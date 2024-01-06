@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 383d734d351088d4a9d61c13bb06d0a9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Prefabs/Symbols/Dot.prefab
+  uploadId: 584826

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 94599e8031ff0e54abdec04cd1a41ae8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Models/Materials/parentheses.mat
+  uploadId: 584826

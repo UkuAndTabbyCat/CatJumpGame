@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2b6d6b3242cc2d24a845adfce0be20aa
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Prefabs/Symbols/ParenthesesClose.prefab
+  uploadId: 584826

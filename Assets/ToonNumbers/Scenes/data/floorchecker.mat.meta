@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 27c293910584c6f4096529af4d1acd67
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Scenes/data/floorchecker.mat
+  uploadId: 584826

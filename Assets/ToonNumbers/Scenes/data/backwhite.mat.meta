@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1ef7aab23c90f2c419572e83ef3450bf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Scenes/data/backwhite.mat
+  uploadId: 584826

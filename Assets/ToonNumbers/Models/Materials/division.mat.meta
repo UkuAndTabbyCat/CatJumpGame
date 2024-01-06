@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 210b38ad2ad4c45459a5fe5b20c44fc4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Models/Materials/division.mat
+  uploadId: 584826

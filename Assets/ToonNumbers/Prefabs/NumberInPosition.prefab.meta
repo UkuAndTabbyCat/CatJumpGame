@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e3911c6edf92d5d4d97a7425e3c94e2b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Prefabs/NumberInPosition.prefab
+  uploadId: 584826

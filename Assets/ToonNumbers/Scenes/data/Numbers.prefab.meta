@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a969761078c3aad449410ee5caff8a6a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Scenes/data/Numbers.prefab
+  uploadId: 584826

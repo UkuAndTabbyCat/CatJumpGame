@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 176e3c03e572deb4a963aa017392e95d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Models/Materials/comma.mat
+  uploadId: 584826

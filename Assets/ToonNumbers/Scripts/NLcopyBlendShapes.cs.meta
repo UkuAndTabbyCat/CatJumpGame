@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ca4cd43a6a2b2794d8a24e8354e76c0c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Scripts/NLcopyBlendShapes.cs
+  uploadId: 584826

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 333e2b4ba40b3d946b75254fb61bbf13
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Scenes/data/PressAnyKey.prefab
+  uploadId: 584826

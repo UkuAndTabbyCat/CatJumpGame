@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cc1beab0e2f8a574ba80fda342c717f8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Scenes/data/positions.controller
+  uploadId: 584826

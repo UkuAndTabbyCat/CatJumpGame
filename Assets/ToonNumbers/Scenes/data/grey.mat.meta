@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 38acc0bdf6c087a4fac567c752c89c85
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Scenes/data/grey.mat
+  uploadId: 584826

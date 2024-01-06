@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 290d9bf3df4116d449fb94c7b2bcb319
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Prefabs/Symbols/Plus.prefab
+  uploadId: 584826

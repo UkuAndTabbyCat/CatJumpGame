@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fbbf780d55d9f9a4fbe7b386799f84dd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Scenes/data/number2position.prefab
+  uploadId: 584826

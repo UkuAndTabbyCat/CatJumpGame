@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 30d6709974dedf44099aa9e140cda5ea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Scripts/NLController3Ddirections.cs
+  uploadId: 584826

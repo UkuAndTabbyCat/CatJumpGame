@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 89491aa55c3d2014c8e27f2aa9caf682
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Scenes/data/guess.mat
+  uploadId: 584826

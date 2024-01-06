@@ -1,0 +1,1126 @@
+fileFormatVersion: 2
+guid: e33e855da4fb9db47bbd0c19b4914d2e
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: ARMS
+  - first:
+      1: 100002
+    second: EYES
+  - first:
+      1: 100004
+    second: LEGS
+  - first:
+      1: 100006
+    second: MOUTH
+  - first:
+      1: 100008
+    second: NL
+  - first:
+      1: 100010
+    second: NL Head
+  - first:
+      1: 100012
+    second: NL L Calf
+  - first:
+      1: 100014
+    second: NL L Clavicle
+  - first:
+      1: 100016
+    second: NL L Finger0
+  - first:
+      1: 100018
+    second: NL L Finger01
+  - first:
+      1: 100020
+    second: NL L Finger02
+  - first:
+      1: 100022
+    second: NL L Finger1
+  - first:
+      1: 100024
+    second: NL L Finger11
+  - first:
+      1: 100026
+    second: NL L Finger12
+  - first:
+      1: 100028
+    second: NL L Finger2
+  - first:
+      1: 100030
+    second: NL L Finger21
+  - first:
+      1: 100032
+    second: NL L Finger22
+  - first:
+      1: 100034
+    second: NL L Finger3
+  - first:
+      1: 100036
+    second: NL L Finger31
+  - first:
+      1: 100038
+    second: NL L Finger32
+  - first:
+      1: 100040
+    second: NL L Foot
+  - first:
+      1: 100042
+    second: NL L Forearm
+  - first:
+      1: 100044
+    second: NL L Hand
+  - first:
+      1: 100046
+    second: NL L Thigh
+  - first:
+      1: 100048
+    second: NL L Toe0
+  - first:
+      1: 100050
+    second: NL L UpperArm
+  - first:
+      1: 100052
+    second: NL Neck
+  - first:
+      1: 100054
+    second: NL Pelvis
+  - first:
+      1: 100056
+    second: NL R Calf
+  - first:
+      1: 100058
+    second: NL R Clavicle
+  - first:
+      1: 100060
+    second: NL R Finger0
+  - first:
+      1: 100062
+    second: NL R Finger01
+  - first:
+      1: 100064
+    second: NL R Finger02
+  - first:
+      1: 100066
+    second: NL R Finger1
+  - first:
+      1: 100068
+    second: NL R Finger11
+  - first:
+      1: 100070
+    second: NL R Finger12
+  - first:
+      1: 100072
+    second: NL R Finger2
+  - first:
+      1: 100074
+    second: NL R Finger21
+  - first:
+      1: 100076
+    second: NL R Finger22
+  - first:
+      1: 100078
+    second: NL R Finger3
+  - first:
+      1: 100080
+    second: NL R Finger31
+  - first:
+      1: 100082
+    second: NL R Finger32
+  - first:
+      1: 100084
+    second: NL R Foot
+  - first:
+      1: 100086
+    second: NL R Forearm
+  - first:
+      1: 100088
+    second: NL R Hand
+  - first:
+      1: 100090
+    second: NL R Thigh
+  - first:
+      1: 100092
+    second: NL R Toe0
+  - first:
+      1: 100094
+    second: NL R UpperArm
+  - first:
+      1: 100096
+    second: NL Spine
+  - first:
+      1: 100098
+    second: NL Spine1
+  - first:
+      1: 100100
+    second: NL Spine2
+  - first:
+      1: 100102
+    second: //RootNode
+  - first:
+      1: 100104
+    second: ROOT
+  - first:
+      1: 100106
+    second: Rectangle164
+  - first:
+      4: 400000
+    second: ARMS
+  - first:
+      4: 400002
+    second: EYES
+  - first:
+      4: 400004
+    second: LEGS
+  - first:
+      4: 400006
+    second: MOUTH
+  - first:
+      4: 400008
+    second: NL
+  - first:
+      4: 400010
+    second: NL Head
+  - first:
+      4: 400012
+    second: NL L Calf
+  - first:
+      4: 400014
+    second: NL L Clavicle
+  - first:
+      4: 400016
+    second: NL L Finger0
+  - first:
+      4: 400018
+    second: NL L Finger01
+  - first:
+      4: 400020
+    second: NL L Finger02
+  - first:
+      4: 400022
+    second: NL L Finger1
+  - first:
+      4: 400024
+    second: NL L Finger11
+  - first:
+      4: 400026
+    second: NL L Finger12
+  - first:
+      4: 400028
+    second: NL L Finger2
+  - first:
+      4: 400030
+    second: NL L Finger21
+  - first:
+      4: 400032
+    second: NL L Finger22
+  - first:
+      4: 400034
+    second: NL L Finger3
+  - first:
+      4: 400036
+    second: NL L Finger31
+  - first:
+      4: 400038
+    second: NL L Finger32
+  - first:
+      4: 400040
+    second: NL L Foot
+  - first:
+      4: 400042
+    second: NL L Forearm
+  - first:
+      4: 400044
+    second: NL L Hand
+  - first:
+      4: 400046
+    second: NL L Thigh
+  - first:
+      4: 400048
+    second: NL L Toe0
+  - first:
+      4: 400050
+    second: NL L UpperArm
+  - first:
+      4: 400052
+    second: NL Neck
+  - first:
+      4: 400054
+    second: NL Pelvis
+  - first:
+      4: 400056
+    second: NL R Calf
+  - first:
+      4: 400058
+    second: NL R Clavicle
+  - first:
+      4: 400060
+    second: NL R Finger0
+  - first:
+      4: 400062
+    second: NL R Finger01
+  - first:
+      4: 400064
+    second: NL R Finger02
+  - first:
+      4: 400066
+    second: NL R Finger1
+  - first:
+      4: 400068
+    second: NL R Finger11
+  - first:
+      4: 400070
+    second: NL R Finger12
+  - first:
+      4: 400072
+    second: NL R Finger2
+  - first:
+      4: 400074
+    second: NL R Finger21
+  - first:
+      4: 400076
+    second: NL R Finger22
+  - first:
+      4: 400078
+    second: NL R Finger3
+  - first:
+      4: 400080
+    second: NL R Finger31
+  - first:
+      4: 400082
+    second: NL R Finger32
+  - first:
+      4: 400084
+    second: NL R Foot
+  - first:
+      4: 400086
+    second: NL R Forearm
+  - first:
+      4: 400088
+    second: NL R Hand
+  - first:
+      4: 400090
+    second: NL R Thigh
+  - first:
+      4: 400092
+    second: NL R Toe0
+  - first:
+      4: 400094
+    second: NL R UpperArm
+  - first:
+      4: 400096
+    second: NL Spine
+  - first:
+      4: 400098
+    second: NL Spine1
+  - first:
+      4: 400100
+    second: NL Spine2
+  - first:
+      4: 400102
+    second: //RootNode
+  - first:
+      4: 400104
+    second: ROOT
+  - first:
+      4: 400106
+    second: Rectangle164
+  - first:
+      21: 2100000
+    second: faceA
+  - first:
+      21: 2100002
+    second: legs
+  - first:
+      21: 2100004
+    second: No Name
+  - first:
+      23: 2300000
+    second: ARMS
+  - first:
+      23: 2300002
+    second: LEGS
+  - first:
+      33: 3300000
+    second: ARMS
+  - first:
+      33: 3300002
+    second: LEGS
+  - first:
+      43: 4300000
+    second: EYES
+  - first:
+      43: 4300002
+    second: MOUTH
+  - first:
+      43: 4300004
+    second: LEGS
+  - first:
+      43: 4300006
+    second: ARMS
+  - first:
+      74: 7400000
+    second: defeat3
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: EYES
+  - first:
+      137: 13700002
+    second: MOUTH
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: ROOT
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: defeat3
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 2
+    tangentImportMode: 2
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 2
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: NL
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL L Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL L Finger01
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL L Finger02
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL L Finger1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL L Finger11
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL L Finger12
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL L Finger2
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL L Finger21
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL L Finger22
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL L Finger3
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL L Finger31
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL L Finger32
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL R Finger0
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL R Finger01
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL R Finger02
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL R Finger1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL R Finger11
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL R Finger12
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL R Finger2
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL R Finger21
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL R Finger22
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL R Finger3
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL R Finger31
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL R Finger32
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NL Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: NL_static(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.0000005604645, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ROOT
+      parentName: NL_static(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NL
+      parentName: ROOT
+      position: {x: 0.00000006479699, y: 0.38445958, z: -0.00000000594132}
+      rotation: {x: -0.50000036, y: 0.49999967, z: 0.49999967, w: 0.50000036}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NL Pelvis
+      parentName: NL
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NL L Thigh
+      parentName: NL Pelvis
+      position: {x: 0.00000022888179, y: 0.0000002424237, z: 0.1640801}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: NL L Calf
+      parentName: NL L Thigh
+      position: {x: -0.1520188, y: 0.00000003814697, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NL L Foot
+      parentName: NL L Calf
+      position: {x: -0.1748549, y: -0.000000004768372, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: NL L Toe0
+      parentName: NL L Foot
+      position: {x: -0.04638811, y: 0.1578555, z: 0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NL R Thigh
+      parentName: NL Pelvis
+      position: {x: -0.00000022888179, y: -0.000000212669, z: -0.1640801}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NL R Calf
+      parentName: NL R Thigh
+      position: {x: -0.1520188, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: NL R Foot
+      parentName: NL R Calf
+      position: {x: -0.1748549, y: 0, z: -0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: NL R Toe0
+      parentName: NL R Foot
+      position: {x: -0.0463881, y: 0.1578555, z: 0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: NL Spine
+      parentName: NL Pelvis
+      position: {x: -0.1353284, y: -0.0002076506, z: 0.00000018796139}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NL Spine1
+      parentName: NL Spine
+      position: {x: -0.2608327, y: -0.0002076727, z: -5.760012e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MOUTH
+      parentName: NL Spine1
+      position: {x: 0.008285828, y: 0.1951559, z: -0.0002865601}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NL Spine2
+      parentName: NL Spine1
+      position: {x: -0.2608327, y: -0.0002076745, z: -5.760012e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EYES
+      parentName: NL Spine2
+      position: {x: -0.0001586914, y: 0.1993734, z: 0.0000003051759}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NL L Clavicle
+      parentName: NL Spine2
+      position: {x: -0.009333038, y: 0.0001999211, z: 0.1942198}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: -0.7071068, w: 0.000000030908623}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NL L UpperArm
+      parentName: NL L Clavicle
+      position: {x: -0.1357802, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NL L Forearm
+      parentName: NL L UpperArm
+      position: {x: -0.20223498, y: 0, z: -0.00000007629395}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NL L Hand
+      parentName: NL L Forearm
+      position: {x: -0.20223498, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: -0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NL L Finger0
+      parentName: NL L Hand
+      position: {x: -0.028236568, y: 0.015388299, z: -0.052607387}
+      rotation: {x: -0.5626008, y: 0.30361167, z: -0.23296988, w: -0.73282015}
+      scale: {x: 1, y: 1, z: 1.000001}
+    - name: NL L Finger01
+      parentName: NL L Finger0
+      position: {x: -0.07327751, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NL L Finger02
+      parentName: NL L Finger01
+      position: {x: -0.03764233, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NL L Finger1
+      parentName: NL L Hand
+      position: {x: -0.1182831, y: -0.000028076169, z: -0.04126059}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999997}
+    - name: NL L Finger11
+      parentName: NL L Finger1
+      position: {x: -0.05152435, y: 0, z: -0.000000019073491}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+    - name: NL L Finger12
+      parentName: NL L Finger11
+      position: {x: -0.040555757, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NL L Finger2
+      parentName: NL L Hand
+      position: {x: -0.1182831, y: -0.00000091552727, z: 0.0016670229}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NL L Finger21
+      parentName: NL L Finger2
+      position: {x: -0.05738739, y: -0.00000003814697, z: 0.000000019073491}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: NL L Finger22
+      parentName: NL L Finger21
+      position: {x: -0.045170758, y: 0, z: -0.000000019073491}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NL L Finger3
+      parentName: NL L Hand
+      position: {x: -0.1182831, y: 0.000027160639, z: 0.04262321}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999998, z: 0.9999996}
+    - name: NL L Finger31
+      parentName: NL L Finger3
+      position: {x: -0.047822952, y: 0.00000003814697, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NL L Finger32
+      parentName: NL L Finger31
+      position: {x: -0.037642267, y: 0, z: -0.000000019073491}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: NL Neck
+      parentName: NL Spine2
+      position: {x: -0.26083, y: -0.00006591558, z: -1.828175e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NL Head
+      parentName: NL Neck
+      position: {x: -0.082774125, y: 0.000000004768372, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NL R Clavicle
+      parentName: NL Spine2
+      position: {x: -0.009333038, y: 0.00020046948, z: -0.1942197}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: 0.7071068, w: -0.000000030908623}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NL R UpperArm
+      parentName: NL R Clavicle
+      position: {x: -0.1357802, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NL R Forearm
+      parentName: NL R UpperArm
+      position: {x: -0.2022349, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: NL R Hand
+      parentName: NL R Forearm
+      position: {x: -0.20223498, y: -0.000000019073491, z: -0.00000007629395}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NL R Finger0
+      parentName: NL R Hand
+      position: {x: -0.028244734, y: 0.015385952, z: 0.05264408}
+      rotation: {x: -0.6532825, y: 0.2705975, z: 0.27059773, w: 0.65328085}
+      scale: {x: 0.9999998, y: 1, z: 1}
+    - name: NL R Finger01
+      parentName: NL R Finger0
+      position: {x: -0.073277436, y: 0.000000019073491, z: 0.00000003814697}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: NL R Finger02
+      parentName: NL R Finger01
+      position: {x: -0.03764229, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: NL R Finger1
+      parentName: NL R Hand
+      position: {x: -0.118283, y: -0.00002792358, z: 0.0412606}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 0.9999997, z: 0.9999996}
+    - name: NL R Finger11
+      parentName: NL R Finger1
+      position: {x: -0.05152435, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: NL R Finger12
+      parentName: NL R Finger11
+      position: {x: -0.0405558, y: -0.00000003814697, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+    - name: NL R Finger2
+      parentName: NL R Hand
+      position: {x: -0.1182831, y: -0.0000008392334, z: -0.0016670419}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: NL R Finger21
+      parentName: NL R Finger2
+      position: {x: -0.05738739, y: -0.00000003814697, z: 0.000000019073491}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NL R Finger22
+      parentName: NL R Finger21
+      position: {x: -0.04517084, y: 0, z: 0.000000019073491}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: NL R Finger3
+      parentName: NL R Hand
+      position: {x: -0.1182831, y: 0.00002731323, z: -0.04262321}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999997, z: 0.9999995}
+    - name: NL R Finger31
+      parentName: NL R Finger3
+      position: {x: -0.04782288, y: 0.00000003814697, z: 0.00000003814697}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NL R Finger32
+      parentName: NL R Finger31
+      position: {x: -0.037642308, y: 0, z: -0.00000003814697}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 30103a0fe6a43c14d8ac8c7c55b23981,
+    type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Animations/NL_defeat3.FBX
+  uploadId: 584826

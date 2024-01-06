@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b48a344206dcaf44989e5c1894ddfdd0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216655
+  packageName: Toon numbers
+  packageVersion: 1.2
+  assetPath: Assets/ToonNumbers/Scenes/data/Empty.prefab
+  uploadId: 584826
