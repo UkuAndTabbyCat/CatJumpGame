@@ -12,9 +12,15 @@ public class SpawnManager : MonoBehaviour
     [SerializeField] GameObject moveStep;
     [SerializeField] GameObject onlyOnceStep;
     [SerializeField] GameObject hurtStep;
+    [SerializeField] GameObject bouncyStep;
+    [SerializeField] GameObject twinkleStep;
+
+    [SerializeField] GameObject m_Bubble;
     private float cameraHeight;
     private float startHeight = 0;
-    private float xBound = 5f;
+    private float xBound = 30f;
+
+    private float lastStepLoc_X;
 
     // Start is called before the first frame update
     void Start()
@@ -22,15 +28,19 @@ public class SpawnManager : MonoBehaviour
         // Éú³É³õÊ¼step
         cameraHeight = Camera.main.transform.position.y;
         float startStep_y = -10;
-        for (int i = 0; i < 10; i++)
+        GameObject step = null;
+
+        for (int i = 0; i < 6; i++)
         {
-            startStep_y += Random.Range(4f, 8f);
-            Instantiate(normalStep, new Vector3(Random.Range(-xBound, xBound), startStep_y, 0), normalStep.transform.rotation);
+            startStep_y += Random.Range(4f, 9f);
+            step = Instantiate(normalStep, new Vector3(Random.Range(-10, 10), startStep_y, 0), normalStep.transform.rotation);
             if (startStep_y > startHeight)
             {
                 break;
             }
         }
+        lastStepLoc_X = step.gameObject.transform.position.x;
+        StartCoroutine("GenerateBubble");
     }
 
     // Update is called once per frame
@@ -42,29 +52,55 @@ public class SpawnManager : MonoBehaviour
             int intervalNum = Random.Range(3, 5);
             for (int i = 0; i < intervalNum; i++)
             {
-                startHeight += Random.Range(4f, 8f);
-                GenerateRandomStep(normalStep, startHeight);
+                startHeight += Random.Range(4f, 9f);
+                GenerateRandomStep(lastStepLoc_X, normalStep, startHeight);
             }
-            startHeight += Random.Range(4f, 8f);
-            GenerateRandomStep(moveStep, startHeight);
-            startHeight += Random.Range(4f, 8f);
-            GenerateRandomStep(onlyOnceStep, startHeight);
-            startHeight += Random.Range(4f, 8f);
-            GenerateRandomStep(hurtStep, startHeight);
-            startHeight += 0.7f;
-            GenerateRandomStep(onlyOnceStep, startHeight);
+            startHeight += Random.Range(4f, 9f);
+            GenerateRandomStep(lastStepLoc_X, moveStep, startHeight);
+            startHeight += Random.Range(4f, 9f);
+            GenerateRandomStep(lastStepLoc_X, onlyOnceStep, startHeight);
+            startHeight += Random.Range(4f, 9f);
+            GenerateRandomStep(lastStepLoc_X, twinkleStep, startHeight);
+            startHeight += Random.Range(4f, 9f);
+            GenerateRandomStep(lastStepLoc_X, hurtStep, startHeight);
+            startHeight += Random.Range(4f, 9f);
+            GenerateRandomStep(lastStepLoc_X, bouncyStep, startHeight);
+
         }
     }
 
-    private void GenerateRandomStep(GameObject step, float loc_y)
+    private void GenerateRandomStep(float lastStepLoc_X, GameObject step, float loc_y)
     {
-        float random_x = Random.Range(-xBound, xBound);
+        float random_x = lastStepLoc_X + Random.Range(-10f, 10f);
+        if (random_x < -xBound)
+        {
+            random_x = -2 * xBound - random_x;
+        }
+        else if (random_x > xBound)
+        {
+            random_x = 2 * xBound - random_x;
+        }
         Vector3 loc = new Vector3(random_x, loc_y, 0);
+        this.lastStepLoc_X = random_x;
 
         // generate random step length
-        float scale_x = Random.Range(1f, 5f);
+        float scale_x = Random.Range(2f, 6f);
         step.transform.localScale = new Vector3(scale_x, step.transform.localScale.y, step.transform.localScale.z);
 
         Instantiate(step, loc, step.transform.rotation);
+    }
+
+    private IEnumerator GenerateBubble()
+    {
+        while (true)
+        {
+            float x = Random.Range(-30f, 30f);
+            float y = Camera.main.transform.position.y - 25f;
+            float z = Random.Range(-15f, 15f);
+            Instantiate(m_Bubble, new Vector3(x, y, z), m_Bubble.transform.rotation);
+            yield return new WaitForSeconds(Random.Range(2f, 5f));
+        }
+
+
     }
 }

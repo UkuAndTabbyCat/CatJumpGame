@@ -12,7 +12,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float fallMultiplier;
     private float inputHorizontal;
     private Vector3 inputAcceleration;
-    private float xBound = 4.5f;
+    private float xBound = 30f;
 
     private Rigidbody playerRb;
     private Animator playerAnimator;
@@ -95,7 +95,14 @@ public class PlayerController : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
-        playerRb.velocity += Vector3.up * jumpVelocity;
+        if (collision.gameObject.CompareTag("Bouncy"))
+        {
+            playerRb.velocity += Vector3.up * 2 * jumpVelocity;
+        }
+        else
+        {
+            playerRb.velocity += Vector3.up * jumpVelocity;
+        }
         playerAnimator.SetBool("Jump_b", true);
         int num = Random.Range(0, m_JumpSound.Count);
         playerAudioSource.PlayOneShot(m_JumpSound[num], 0.6f);
