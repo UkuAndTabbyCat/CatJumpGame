@@ -7,6 +7,8 @@ TagManager:
   - Background
   - Level
   - life
+  - Bouncy
+  - Ocean
   layers:
   - Default
   - TransparentFX
