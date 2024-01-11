@@ -19,6 +19,12 @@ public class HurtStep : MonoBehaviour
     {
         m_BrokenHeart = Instantiate(m_BrokenHeart, transform.position, m_BrokenHeart.transform.rotation);
     }
+
+    private void OnDestroy()
+    {
+        Destroy(m_BrokenHeart);
+    }
+
     // Start is called before the first frame update
     private void OnCollisionEnter(Collision collision)
     {

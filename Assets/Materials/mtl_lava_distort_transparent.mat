@@ -30,11 +30,11 @@ Material:
     - _LavaTex:
         m_Texture: {fileID: 2800000, guid: aed369d136cf0174e8e04dfb34567e6a, type: 3}
         m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 28.174643, y: 5.7094812}
+        m_Offset: {x: 9.182191, y: -4.5910954}
     - _MainTex:
         m_Texture: {fileID: 2800000, guid: 348fa4d278c53ad4dacd07df1e63a248, type: 3}
         m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 4.477086, y: 0}
+        m_Offset: {x: 9.711228, y: 0}
     - _MainTex2:
         m_Texture: {fileID: 2800000, guid: bef54341b6d21864c82d47f3bed4c7db, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -46,8 +46,8 @@ Material:
     m_Ints: []
     m_Floats:
     - _Displacement: 0.0375
-    - _DistortX: 1.0714285
-    - _DistortY: 0
+    - _DistortX: 0.87
+    - _DistortY: 1.21
     - _RefractTexTiling: 1
     m_Colors:
     - _ChannelFactor: {r: -0.3281326, g: 0.5920941, b: 0.7360384, a: 0}

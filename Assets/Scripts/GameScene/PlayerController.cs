@@ -15,8 +15,9 @@ public class PlayerController : MonoBehaviour
 {
     // Status PowerUp
     [SerializeField] List<GameObject> m_PowerUpLists;
-
     [SerializeField] List<AudioClip> m_JumpSound;
+
+    [SerializeField] private ParticleSystem m_JumpUnderWater;
 
     [SerializeField] private float jumpVelocity;
     [SerializeField] private float moveSpeed;
@@ -165,16 +166,17 @@ public class PlayerController : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
-        if (collision.gameObject.CompareTag("Bouncy"))
+        playerAnimator.SetTrigger("Jump_t");
+        if (collision.gameObject.CompareTag("Bouncy") && !collision.gameObject.GetComponent<BouncyStep>().isTrig)
         {
-            playerRb.velocity = Vector3.up * 1.2f * jumpVelocity;
+            playerRb.velocity = Vector3.up * 1.5f * jumpVelocity;
         }
         else
         {
             playerRb.velocity = Vector3.up * jumpVelocity;
+            int num = Random.Range(0, m_JumpSound.Count);
+            playerAudioSource.PlayOneShot(m_JumpSound[num], 0.6f);
         }
-        playerAnimator.SetTrigger("Jump_t");
-        int num = Random.Range(0, m_JumpSound.Count);
-        playerAudioSource.PlayOneShot(m_JumpSound[num], 0.6f);
+        m_JumpUnderWater.Play();
     }
 }

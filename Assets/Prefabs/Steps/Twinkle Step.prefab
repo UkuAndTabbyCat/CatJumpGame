@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 216955474175205562}
   - component: {fileID: 3554905495763251667}
   - component: {fileID: 2352089291888850913}
-  - component: {fileID: -3906276678328375205}
+  - component: {fileID: 1989355739727935464}
   m_Layer: 3
   m_Name: Twinkle Step
   m_TagString: Untagged
@@ -31,7 +31,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 5.8707924, y: 1, z: 5}
+  m_LocalScale: {x: 3.0110614, y: 1, z: 5}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -64,7 +64,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 9af34721d62dd804da5c720b8325b5d3, type: 2}
+  - {fileID: 2100000, guid: 3e7101ee60b046b418bc7a05d385162b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -119,7 +119,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c84980054b4105942b7a57202557473e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &-3906276678328375205
+--- !u!114 &1989355739727935464
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -128,6 +128,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 1534221768503583566}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d510f3a592730e240a62e65d8e688f8e, type: 3}
+  m_Script: {fileID: 11500000, guid: 6b1400b7a7b74b3438a843bb97c82f50, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
