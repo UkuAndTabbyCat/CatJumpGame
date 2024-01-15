@@ -2278,7 +2278,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 9.275385e-39, y: 4.099838e-19, z: 3.67364e-40, w: 9.550892e-39}
+  m_BoundingSphereOverride: {x: 4.5697343e-37, y: 4.1326e-40, z: 5.142788e-39, w: 9.1835e-41}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -2399,7 +2399,7 @@ Transform:
   m_GameObject: {fileID: 740854918}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0.7071068, w: 0}
-  m_LocalPosition: {x: 0, y: 230, z: 600}
+  m_LocalPosition: {x: 0, y: 216, z: 600}
   m_LocalScale: {x: 160, y: 1, z: 120}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3409,7 +3409,7 @@ Camera:
     width: 1
     height: 1
   near clip plane: 0.3
-  far clip plane: 700
+  far clip plane: 1500
   field of view: 60
   orthographic: 0
   orthographic size: 5
@@ -3451,7 +3451,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a8144f21598a68547a4a12eee3e08fa0, type: 3}
   m_Name: 
@@ -3967,7 +3967,7 @@ Transform:
   m_GameObject: {fileID: 1176944677}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 830, z: 0}
+  m_LocalPosition: {x: 0, y: 830.4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6245,7 +6245,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1943287304}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: af9a6dbcdc3f9b2459e532ecbf7fc34b, type: 3}
   m_Name: 
@@ -6307,7 +6307,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1994305849
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6365,7 +6365,7 @@ Canvas:
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
-  m_VertexColorAlwaysGammaSpace: 1
+  m_VertexColorAlwaysGammaSpace: 0
   m_AdditionalShaderChannelsFlag: 0
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0

@@ -17,10 +17,7 @@ public class BouncyStep : MonoBehaviour
         m_AudioSource = GetComponent<AudioSource>();
         m_Animator = GetComponent<Animator>();
         m_BouncyTextBoing = Instantiate(m_BouncyTextBoing, -2.6f * Vector3.forward + transform.position, m_BouncyTextBoing.transform.rotation);
-        if (transform.localScale.x > 2.5f)
-        {
-            transform.localScale = new Vector3(2.5f, transform.localScale.y, transform.localScale.z);
-        }
+        transform.localScale = new Vector3(transform.localScale.x / 5f, transform.localScale.y, transform.localScale.z);
     }
 
     private void OnCollisionEnter(Collision collision)

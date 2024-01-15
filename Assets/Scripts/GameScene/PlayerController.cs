@@ -34,6 +34,8 @@ public class PlayerController : MonoBehaviour
     private Animator playerAnimator;
     private AudioSource playerAudioSource;
 
+    private Coroutine[] m_coroutines = new Coroutine[2];
+
     // Status Tag
     public bool isProtect { get; private set; }
 
@@ -140,7 +142,11 @@ public class PlayerController : MonoBehaviour
     {
         m_PowerUpLists[0].SetActive(true);
         isProtect = true;
-        StartCoroutine("EnableProtect");
+        if (null != m_coroutines[0])
+        {
+            StopCoroutine(m_coroutines[0]);
+        }
+        m_coroutines[0] = StartCoroutine("EnableProtect");
     }
 
     private IEnumerator EnableProtect()
@@ -154,7 +160,11 @@ public class PlayerController : MonoBehaviour
     {
         m_PowerUpLists[1].SetActive(true);
         jumpVelocity *= 1.2f;
-        StartCoroutine("EnableJumpHigher");
+        if (null != m_coroutines[1])
+        {
+            StopCoroutine(m_coroutines[1]);
+        }
+        m_coroutines[1] = StartCoroutine("EnableJumpHigher");
     }
 
     private IEnumerator EnableJumpHigher()
